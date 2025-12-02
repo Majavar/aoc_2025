@@ -22,6 +22,7 @@
       {
         devShells.default = mkShell.override { stdenv = stdenvNoCC; } {
           buildInputs = [
+            julia
           ];
         };
       }

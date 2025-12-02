@@ -9,3 +9,11 @@ How to launch:
 * Import `input` into list `input`
 * Click on the green flag
 
+## Day 02
+Language: Julia
+
+How to launch:
+```sh
+julia ./day_02/{main.jl,input}
+```
+
