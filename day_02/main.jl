@@ -31,4 +31,4 @@ function is_invalid2(code)
 end
 
 invalids =  collect(Iterators.flatten(input .|> filter(is_invalid2)))
-print("Part 1: ", sum(invalids), "\n")
+print("Part 2: ", sum(invalids), "\n")

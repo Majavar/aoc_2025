@@ -17,3 +17,11 @@ How to launch:
 julia ./day_02/{main.jl,input}
 ```
 
+## Day 03
+Language: Zig
+
+How to launch:
+```sh
+zig run day_03/src/main.zig -- day_03/input
+```
+
