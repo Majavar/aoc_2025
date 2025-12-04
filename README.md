@@ -25,3 +25,10 @@ How to launch:
 zig run day_03/src/main.zig -- day_03/input
 ```
 
+## Day 04
+Language: Python
+
+How to launch:
+```sh
+ ./day_04/{day_04.py,input}
+ ```

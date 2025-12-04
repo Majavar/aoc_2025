@@ -23,6 +23,7 @@
         devShells.default = mkShell.override { stdenv = stdenvNoCC; } {
           buildInputs = [
             julia
+            python3
             zig
           ];
         };
