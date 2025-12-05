@@ -30,5 +30,13 @@ Language: Python
 
 How to launch:
 ```sh
- ./day_04/{day_04.py,input}
+./day_04/{day_04.py,input}
  ```
+
+## Day 05
+Language: Clojure
+
+How to launch:
+```sh
+clojure -M ./day_05/{day_05.clj,input}
+```
