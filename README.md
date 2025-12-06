@@ -40,3 +40,11 @@ How to launch:
 ```sh
 clojure -M ./day_05/{day_05.clj,input}
 ```
+
+## Day 06
+Language: jq
+
+How to launch:
+```sh
+./day_06/{answer.sh,input}
+```
