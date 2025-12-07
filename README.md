@@ -48,3 +48,11 @@ How to launch:
 ```sh
 ./day_06/{answer.sh,input}
 ```
+
+## Day 07
+Language: Bash
+
+How to launch:
+```sh
+./day_07/{answer.sh,input}
+```
