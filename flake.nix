@@ -23,6 +23,7 @@
         devShells.default = mkShell.override { stdenv = stdenvNoCC; } {
           buildInputs = [
             clojure
+            gcc
             jq
             julia
             python3
