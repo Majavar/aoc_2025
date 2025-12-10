@@ -64,3 +64,12 @@ How to launch:
 ```sh
 g++ day_08/aoc.cpp -o day_08/aoc && ./day_08/{aoc,input}
 ```
+
+## Day 09
+Language: Rust
+
+How to launch:
+```sh
+cd day_09
+cargo run -- input
+```

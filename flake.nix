@@ -14,7 +14,7 @@
         pkgs = import nixpkgs {
           inherit system overlays;
         };
-        rust = pkgs.rust-bin.stable."1.82.0".minimal.override {
+        rust = pkgs.rust-bin.stable."1.91.1".minimal.override {
           extensions = [ "rustfmt" "clippy" "rust-src" "rust-analyzer" ];
         };
       in
@@ -26,6 +26,7 @@
             gcc
             jq
             julia
+            rust
             python3
             zig
           ];
